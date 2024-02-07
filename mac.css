@@ -1,0 +1,63 @@
+
+.header{
+    margin: auto;
+    padding: 0 60px;
+    display: flex;
+    justify-content: space-between; 
+}
+.know-mac{
+    margin-top: 50px;
+    
+}
+.box{
+    
+    height: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px; 
+   
+}
+ .container img{
+    border-radius: 20px;
+}
+
+.box-1{
+    padding: 0;
+    height: 700px;
+    width: 350px;
+    border: 1px solid;
+    border-radius: 20px;
+    /* position: absolute; */
+    
+}
+.box-2{
+    padding: 0%;
+    height: 700px;
+    width: 350px;
+    border: 1px solid;
+    border-radius: 20px;
+
+
+}
+.box-3{
+    padding: 0%;
+    height: 700px;
+    width: 350px;
+    border: 1px solid;
+    border-radius: 20px;
+    background-position: left;
+}
+.compare{
+    height: 900px;
+    width: 100vw;
+    border: 2px solid;
+}
+.explore{
+
+    padding-top: 100px;
+    padding-bottom: 0%;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
